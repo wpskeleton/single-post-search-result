@@ -1,4 +1,4 @@
-One Page Search Result
+Single Post Search Result
 ======================
 
 Single Post Search Result is a small WordPress plugin that will redirect your search result if there is only a single matching result to the actual post instead of the search results page.

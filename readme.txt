@@ -1,4 +1,4 @@
-=== One Post Search Result ===
+=== Single Post Search Result ===
 Contributors: WPSkeleton
 Tags: search, plugin, plugins, search results, search, search redirect
 Requires at least: 3.9
