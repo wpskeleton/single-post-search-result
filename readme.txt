@@ -1,8 +1,8 @@
 === Single Post Search Result ===
 Contributors: WPSkeleton
 Tags: search, plugin, plugins, search results, search, search redirect
-Requires at least: 3.9
-Tested up to: 4.0
+Requires at least: 4.5
+Tested up to: 4.5
 Stable tag: 1.0
 
 Redirects a single search result to the single post page.
@@ -12,6 +12,11 @@ Redirects a single search result to the single post page.
 Single Post Search Result is a small WordPress plugin that will redirect your search result if there is only a single matching result to the actual post instead of the search results page.
 
 == Changelog ==
+
+= 1.0.1 =
+Release date: July 5th, 2016
+
+* Tweak - readme update and requires at least updated.
 
 = 1.0 =
 * Initial release
