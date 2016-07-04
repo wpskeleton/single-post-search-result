@@ -4,7 +4,7 @@
  * Plugin URI: http://wpskeleton.com/
  * Description: This Plugin will redirect any search results that only have a single post to the single post that was returned in the search.
  * Author: WPSkeleton
- * Version: 1.0
+ * Version: 1.0.1
  * Author URI: http://wpskeleton.com/
  *
  * @author WPSkeleton
