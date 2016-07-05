@@ -13,6 +13,10 @@ This section describes how to install the plugin and get it working.
 
 ## Changelog ##
 
+05/07/2016 - version 1.0.1
+
+* Tweak - readme update and requires at least updated
+
 18/06/2014 - version 1.0
 
 * Intial Version
